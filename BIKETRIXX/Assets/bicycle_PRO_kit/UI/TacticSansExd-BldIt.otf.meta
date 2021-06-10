@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b8ec9a23d97aa434ca93f7c6b7a7eccd
+timeCreated: 1613631068
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: TacticSansExd-BldIt
+  fontNames:
+  - TacticSansExd-BldIt
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

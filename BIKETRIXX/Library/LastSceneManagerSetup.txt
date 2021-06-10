@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/bicycle_PRO_kit/Mobile/wood.unity
+  isLoaded: 1
+  isActive: 1
